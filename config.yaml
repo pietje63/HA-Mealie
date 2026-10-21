@@ -1,0 +1,20 @@
+name: "MealieShopper"
+slug: "mealieshopper"
+version: "1.5.3"
+description: "Koppel je Mealie-weekmenu aan Albert Heijn en beheer recepten."
+url: "https://github.com/helmerzNL/MealieShopper"
+arch:
+  - aarch64
+  - amd64
+startup: application
+boot: auto
+init: true
+image: "ghcr.io/helmerznl/mealieshopper"
+webui: "http://[HOST]:[PORT:8000]"
+ports:
+  8000/tcp: 5959
+ports_description:
+  8000/tcp: "MealieShopper webinterface"
+map:
+  - type: data
+    read_only: false
