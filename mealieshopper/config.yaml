@@ -1,6 +1,7 @@
 name: "MealieShopper"
 slug: "mealieshopper"
 version: "latest"
+legacy: true
 description: "Koppel je Mealie-weekmenu aan Albert Heijn en beheer recepten."
 url: "https://github.com/helmerzNL/MealieShopper"
 arch:
