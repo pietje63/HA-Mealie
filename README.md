@@ -1,3 +1,6 @@
+# Warning
+v0 - vibe coded - testing
+
 # Mealie + MealieShopper voor Home Assistant OS
 
 Dit pakket is een startpunt om MealieShopper als Home Assistant-app te installeren op Home Assistant OS (bijvoorbeeld Home Assistant Green).
