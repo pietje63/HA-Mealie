@@ -1,5 +1,6 @@
 # Warning
-v0 - vibe coded - testing
+v1.0 - vibe coded - works with current version, if Mealie also runs as an app, use URL: http://a0d7b954-mealie:9001
+when connecting to Mealie
 
 # Mealie + MealieShopper voor Home Assistant OS
 
